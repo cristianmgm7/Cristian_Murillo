@@ -1,14 +1,11 @@
-# hey there! 👋  
-`code(💻); bike(🚴); sleep(😴); music(🎶); repeat(🔁);`
-
 ## About me
 
-I'm Cristian — a Colombian 🇨🇴 software developer, musician 🎸, and explorer of data, sound, and cloud technologies ☁️.  
+I'm Cristian — a Colombian 🇨🇴 software developer, and explorer of data.  
 Currently based in Malta 🇲 !
 
-- 💻 Tech stack: Flutter,Python,Tensorflow, Pythorch, SQL and more!
-- 📚 Always learning: Frontend, DevOps, backend, and English 🇬🇧
-- 💬 Ask me about: Python, sound processing, data analysis, or music production
+- 💻 Tech stack: Flutter!
+- 📚 Always learning: Frontend, backend, and English 🇬🇧
+- 💬 Ask me about: Flutter and sound processing
 - 🔧 Building my life one repo at a time
 
 ## Connect with me
