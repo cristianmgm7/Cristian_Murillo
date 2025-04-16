@@ -1,12 +1,11 @@
 ## About me
 
-I'm Cristian — a Colombian 🇨🇴 software developer, and explorer of data.  
-Currently based in Malta 🇲 !
+I'm Cristian — Flutter developer, Profesional Engineer.   
+Currently based in Malta!
 
-- 💻 Tech stack: Flutter!
-- 📚 Always learning: Frontend, backend, and English 🇬🇧
+- 📚 Always learning: Frontend, Backend.
 - 💬 Ask me about: Flutter and sound processing
-- 🔧 Building my life one repo at a time
+- 🔧 Building my life one repo at a time.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-danilo-murillo-gonzalez-29710b160/)  
